@@ -1,6 +1,6 @@
 ### Hi There! My name is Robel.
 -----
-# :postbox: About Me
+# About Me
 My name is Robel Kebede and I am a Computer Science student!
 
 ```python
@@ -9,18 +9,6 @@ class Robel:
   hobbies = ["Soccer⚽️", "Exercising🏋🏽‍♂️", "Video games🎮"
 }
 ```
-
------
-
-# Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
-
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
-
-[![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)](https://skillicons.dev)
-
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
-
 -----
 
 # Certifications
@@ -37,5 +25,20 @@ class Robel:
 - ![JPMorgan Chase](https://img.shields.io/badge/JPMorgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
 - ![Google Tech Exchange](https://skillicons.dev/icons?i=googlecloud&theme=dark) **Google Tech Exchange '24**
 - ![Howard University](https://img.shields.io/badge/Howard%20University-7D110C?logo=howard-university&logoColor=white&style=for-the-badge) **Undergraduate Research** 
+
+-----
+
+# Tech Stack
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+
+[![Game Development](https://skillicons.dev/icons?i=cs,unity,godot&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+
+-----
+
+
 
 
