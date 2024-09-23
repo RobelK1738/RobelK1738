@@ -22,9 +22,9 @@ class Robel:
 -----
 
 # Experience
-- ![JPMorgan Chase](https://img.shields.io/badge/JPMorgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
+- ![JPMorgan Chase](https://img.shields.io/badge/JP%20Morgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
 - ![Google Tech Exchange](https://skillicons.dev/icons?i=googlecloud&theme=dark) **Google Tech Exchange '24**
-- ![Howard University](https://img.shields.io/badge/Howard%20University-7D110C?logo=howard-university&logoColor=white&style=for-the-badge) **Undergraduate Research** 
+- ![Howard University](https://img.shields.io/badge/Howard%20University-FFFFFF?logo=howard-university&logoColor=blue&style=for-the-badge) **Undergraduate Research** 
 
 -----
 
