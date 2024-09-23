@@ -39,6 +39,10 @@ class Robel:
 
 -----
 
+# Resume
 
+You can view or download my resume by clicking the link below:
+
+[**Download My Resume**](./Robel-Kebede-Resume.pdf)
 
 
