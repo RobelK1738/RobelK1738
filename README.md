@@ -7,7 +7,6 @@ My name is Robel Kebede and I am a Computer Science student!
 class Robel:
   age = 21
   hobbies = ["Soccer⚽️", "Exercising🏋🏽‍♂️", "Video games🎮"
-}
 ```
 -----
 
