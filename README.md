@@ -6,7 +6,7 @@ My name is Robel Kebede and I am a Computer Science student!
 ```python
 class Robel:
   age = 21
-  hobbies = ["Soccer⚽️", "Exercising🏋🏽‍♂️", "Video games🎮"
+  hobbies = ["Soccer⚽️", "Exercising🏋🏽‍♂️", "Video games🎮"]
 ```
 -----
 
