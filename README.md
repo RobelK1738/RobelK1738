@@ -27,12 +27,15 @@ class Robel:
 
 ### I have the following certifications:
 
-[![AWS Certified Cloud Practitioner](https://skillicons.dev/icons?i=aws&theme=dark)](https://www.credly.com/badges/6acf04b2-2a62-4a85-a331-1aaf2d7b7e83)
-
-[![Google IT Automation with Python](https://skillicons.dev/icons?i=googlecloud&theme=dark)](https://www.coursera.org/account/accomplishments/specialization/certificate/EJ3QBE35UXYU)
-
-[![Meta Back-End Developer](https://img.shields.io/badge/Meta-4267B2?logo=meta&logoColor=white&style=for-the-badge)]([https://www.coursera.org/professional-certificates/meta-back-end-developer](https://www.coursera.org/account/accomplishments/specialization/certificate/QNR26LZ85BU8))
+- [![AWS Certified Cloud Practitioner](https://skillicons.dev/icons?i=aws&theme=dark)](https://www.credly.com/badges/6acf04b2-2a62-4a85-a331-1aaf2d7b7e83) **AWS Certified Cloud Practitioner**
+- [![Google IT Automation with Python](https://skillicons.dev/icons?i=googlecloud&theme=dark)](https://www.coursera.org/account/accomplishments/specialization/certificate/EJ3QBE35UXYU) **Google IT Automation with Python**
+- [![Meta Back-End Developer](https://img.shields.io/badge/Meta-4267B2?logo=meta&logoColor=white&style=for-the-badge)]([https://www.coursera.org/professional-certificates/meta-back-end-developer](https://www.coursera.org/account/accomplishments/specialization/certificate/QNR26LZ85BU8)) **Meta Back-End Developer**
 
 -----
 
 # Experience
+- ![JPMorgan Chase](https://img.shields.io/badge/JPMorgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
+- ![Google Tech Exchange](https://skillicons.dev/icons?i=googlecloud&theme=dark) **Google Tech Exchange '24**
+- ![Howard University](https://img.shields.io/badge/Howard%20University-7D110C?logo=howard-university&logoColor=white&style=for-the-badge) **Undergraduate Research** 
+
+
