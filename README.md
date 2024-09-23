@@ -13,7 +13,7 @@ class Robel:
 
 # Certifications
 
-### I have the following certifications:
+#### I have the following certifications:
 
 - [![AWS Certified Cloud Practitioner](https://skillicons.dev/icons?i=aws&theme=dark)](https://www.credly.com/badges/6acf04b2-2a62-4a85-a331-1aaf2d7b7e83) **AWS Certified Cloud Practitioner**
 - [![Google IT Automation with Python](https://skillicons.dev/icons?i=googlecloud&theme=dark)](https://www.coursera.org/account/accomplishments/specialization/certificate/EJ3QBE35UXYU) **Google IT Automation with Python**
@@ -22,7 +22,8 @@ class Robel:
 -----
 
 # Experience
-- ![JPMorgan Chase](https://img.shields.io/badge/JP%20Morgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
+
+- ![JPMorgan Chase](https://img.shields.io/badge/J.P.%20Morgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
 - ![Google Tech Exchange](https://skillicons.dev/icons?i=googlecloud&theme=dark) **Google Tech Exchange '24**
 - ![Howard University](https://img.shields.io/badge/Howard%20University-FFFFFF?logo=howard-university&logoColor=blue&style=for-the-badge) **Undergraduate Research** 
 
