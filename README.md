@@ -41,8 +41,11 @@ class Robel:
 
 # Resume
 
-You can view or download my resume by clicking the link below:
+### You can also view or download the full resume by clicking the image below:
 
-[**Download My Resume**](./Robel-Kebede-Resume.pdf)
+[<img src="./Resume-Preview.png" alt="Resume Preview" width="550"/>](./Robel-Kebede-Resume.pdf)
+
+
+-----
 
 
