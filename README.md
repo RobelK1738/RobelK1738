@@ -44,7 +44,7 @@ class Robel:
 
 ### You can also view or download the full resume by clicking the image below:
 
-[<img src="./Robel's-August-2025-Resume-Preview.png" alt="Resume Preview" width="550"/>](./Robel-Kebede-Resume.pdf)
+[<img src="./Robel's-August-2025-Resume-Preview.png" alt="Resume Preview" width="550"/>](./Robel-Kebede-August-2025-Resume.pdf)
 
 
 -----
