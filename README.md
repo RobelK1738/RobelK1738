@@ -5,7 +5,7 @@ My name is Robel Kebede and I am a Computer Science student!
 
 ```python
 class Robel:
-  age = 21
+  age = 22
   hobbies = ["Soccer⚽️", "Exercising🏋🏽‍♂️", "Video games🎮"]
 ```
 -----
@@ -22,20 +22,21 @@ class Robel:
 
 # Experience
 
-- ![JPMorgan Chase](https://img.shields.io/badge/J.P.%20Morgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge) **SWE Intern '24**
-- ![Google Tech Exchange](https://skillicons.dev/icons?i=googlecloud&theme=dark) **Google Tech Exchange '24**
-- ![Howard University](https://img.shields.io/badge/Howard%20University-FFFFFF?logo=howard-university&logoColor=blue&style=for-the-badge) **Undergraduate Research** 
+- **SWE Intern 2025** @ ![Meta](https://img.shields.io/badge/Meta-white?logo=meta&logoColor=000000&style=for-the-badge) 
+- **SWE Intern 2024** @ ![JPMorgan Chase](https://img.shields.io/badge/J.P.%20Morgan%20Chase-003A6D?logo=jpmorgan&logoColor=white&style=for-the-badge)
+- **Tech Exchange 2024** @ ![Google Tech Exchange](https://skillicons.dev/icons?i=googlecloud&theme=dark) 
+- **Undergraduate Research** @ ![Howard University](https://img.shields.io/badge/Howard%20University-FFFFFF?logo=howard-university&logoColor=blue&style=for-the-badge)
 
 -----
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,express,react,nodejs,tailwind,next&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,express,react,nodejs,tailwind,next,relay&theme=dark)](https://skillicons.dev)
 
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,cs,php&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,postman,git,vercel,heroku,github,docker,jenkins,kafka,maven,&theme=dark)](https://skillicons.dev)
 
-[![Database](https://skillicons.dev/icons?i=aws,mongodb,mysql,postgresql,&theme=dark)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=aws,mongodb,mysql,postgresql,graphql&theme=dark)](https://skillicons.dev)
 
 
 -----
